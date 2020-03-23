@@ -13,7 +13,7 @@ class App extends StatelessWidget {
       padding: const EdgeInsets.all(32),
       child: Row(
         children: <Widget>[
-          Expanded(
+          Expanded( 
             /* 1 */
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
